@@ -1,3 +1,6 @@
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-green.svg)](LICENSE)
+[![Status: Research](https://img.shields.io/badge/Status-Research-blue.svg)]()
+
 # OpenET Evapotranspiration Platform: Comprehensive Research Report
 
 **Prepared for:** State Water Resources Control Board (SWRCB) project evaluation
