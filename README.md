@@ -1373,3 +1373,8 @@ Comparisons between DETAW and remote sensing methods show ~16% disagreement, sug
 | Oregon OWRD ET Applications Memo (March 2025) | oregon.gov/owrd/WRDPublications1/FINAL_OWRD_ET_Applications_Memo_28MAR2025.pdf |
 | Tulare Basin Watershed Partnership | tulareid.org |
 | SWRCB SGMA Tulare Lake subbasin probation (2024) | waterboards.ca.gov/groundwater |
+
+## Related
+
+- [Water-Rights](https://github.com/vanderoffice/Water-Rights) -- parent modernization workspace (OpenET research feeds curtailment methodology)
+- [State-Modernization](https://github.com/vanderoffice/State-Modernization) -- broader CA department modernization research (includes SWRCB audit)
